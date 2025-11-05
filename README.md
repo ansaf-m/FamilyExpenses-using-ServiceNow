@@ -1,4 +1,4 @@
-sharing TITLE: FamilyExpenses-using-ServiceNow
+ TITLE: FamilyExpenses-using-ServiceNow
 
 TEAM ID: 9F664BE43E6EB67AAB14EB0E889BBF5F
 
