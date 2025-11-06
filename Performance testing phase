@@ -1,0 +1,3 @@
+✅ Performance Testing Phase
+
+After building the application, I tested it to ensure good performance and reliability. I checked how fast the form loads when entering new expenses and confirmed that it opens within a few seconds. I added multiple test records to see if the table works smoothly even with a large number of expenses. The system successfully handled more than 500 entries without performance issues. I tested business rules to ensure that expense totals were calculated correctly without delays. Reports and dashboards were also tested to verify that monthly and category-wise data was displayed accurately and quickly. Overall, the application performed well under normal usage conditions
