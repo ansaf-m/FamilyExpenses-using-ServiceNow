@@ -1,0 +1,3 @@
+✅ Project Design Phase
+
+In the design phase, I created a custom table in ServiceNow to store expense details. Each record included fields such as date, category (like food, rent, travel, etc.), expense amount, description, and the user who entered it. I designed a form where users could easily input this data. To enhance functionality, I used Business Rules to update totals automatically whenever a new expense was added. I also created Script Includes to calculate monthly or category-wise expenses using GlideRecord. Optional catalog items were designed to allow simple expense submission through the Service Catalog. Furthermore, I created dashboards and reports such as pie charts, bar graphs, and monthly summaries to visualize spending patterns.
