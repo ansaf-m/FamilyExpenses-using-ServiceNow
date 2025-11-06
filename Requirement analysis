@@ -1,0 +1,3 @@
+✅ Requirement Analysis
+
+To build this application, I defined both functional and system requirements. Functionally, the application should allow users to enter expenses with details like date, category, description, and amount. All records would be stored in a custom ServiceNow table. The system should automatically calculate total expenses and provide monthly summaries. Users should also be able to view statistics through charts and download reports if needed. Non-functional requirements included secure data storage, fast form loading time, user-friendly interface, ServiceNow mobile accessibility, and proper access control using user roles such as admin and normal user.
